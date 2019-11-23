@@ -1,0 +1,24 @@
+{
+  "name": "javascript-starter",
+  "version": "1.0.0",
+  "description": "Lessons to teach the basics of Javascript",
+  "main": "index.js",
+  "scripts": {
+    "lesson_1": "echo 'Not yet implemented'"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.7.4",
+    "@babel/node": "^7.7.4",
+    "@babel/plugin-proposal-class-properties": "^7.7.4",
+    "@babel/preset-env": "^7.7.4",
+    "babel-eslint": "^10.0.3",
+    "babel-jest": "^24.9.0",
+    "babel-loader": "^8.0.6",
+    "eslint": "^6.7.0",
+    "eslint-plugin-jest": "^23.0.4",
+    "jest": "^24.9.0",
+    "nodemon": "^2.0.1"
+  }
+}
